@@ -4,6 +4,6 @@
 - 💞️ Create this GitHub for code basic
 - 📫 😄 ⚡
 - LIST TODO:
--   Create a project with docker
+-   Create a project with docker and firebase
 -   create a referral project
 -   Create Java and Python project
