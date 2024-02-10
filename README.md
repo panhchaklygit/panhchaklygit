@@ -3,3 +3,7 @@
 - 🌱 I’m currently learning JAVA
 - 💞️ Create this GitHub for code basic
 - 📫 😄 ⚡
+- LIST TODO:
+-   Create a project with docker
+-   create a referral project
+-   Create Java and Python project
