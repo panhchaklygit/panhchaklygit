@@ -1,8 +1,8 @@
 - 👋 Hi, I’m CHHENG PANHCHAKLY😄
 - 👀 I’m interested in CODING
 - 🌱 I’m currently a software development specialist
-- 💞️ JAVA PYTHON NODE PHP  
+- 💞️ JAVA PYTHON NODE PHP REACT ANGULAR
 - 📫TODO⚡:
--   Create a project with docker and firebase
+-   Create a project with docker and Firebase
 -   create a referral project
 -   Create Java and Python project
