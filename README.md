@@ -1,9 +1,8 @@
-- 👋 Hi, I’m CHHENG PANHCHAKLY
+- 👋 Hi, I’m CHHENG PANHCHAKLY😄
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning JAVA
-- 💞️ Create this GitHub for code basic
-- 📫 😄 ⚡
-- LIST TODO:
+- 🌱 I’m currently a software development specialist
+- 💞️ JAVA PYTHON NODE PHP  
+- 📫TODO⚡:
 -   Create a project with docker and firebase
 -   create a referral project
 -   Create Java and Python project
